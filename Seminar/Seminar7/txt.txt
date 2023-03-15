@@ -1,0 +1,3 @@
+behvion - поведенческие
+creational.singleton - пораждающие
+structural - структурные
